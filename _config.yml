@@ -1,4 +1,4 @@
-typography_spectrum: 0.8979009441100061
+typography_spectrum: 0.7322522718459368
 color:
   brandStrength: 0.1414987132884562
   lightness: 0.39739017514511943
@@ -10,7 +10,7 @@ color:
     - '#6B4B33'
     - '#68684D'
     - '#215255'
-layout_spectrum: 0.7907887988258153
+layout_spectrum: 0.6528430320322514
 author:
   name: Frances Banks
   email: frances@soulfeltdevotions.com
