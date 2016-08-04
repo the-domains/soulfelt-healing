@@ -1,16 +1,16 @@
-typography_spectrum: 0.9468766222707927
+typography_spectrum: 0.8979009441100061
 color:
-  brandStrength: 0.23440990783274174
-  lightness: 0.5919951810501516
-  saturation: 0.4635335807688534
-  rhythmicContrast: 0.635697107296437
+  brandStrength: 0.1414987132884562
+  lightness: 0.39739017514511943
+  saturation: 0.8840497727505863
+  rhythmicContrast: 0.5030837971717119
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.6841345543507487
+    - '#13101E'
+    - '#5A2A55'
+    - '#6B4B33'
+    - '#68684D'
+    - '#215255'
+layout_spectrum: 0.7907887988258153
 author:
   name: Frances Banks
   email: frances@soulfeltdevotions.com
